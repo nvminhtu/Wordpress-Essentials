@@ -13,13 +13,7 @@
 
 Wordpress Essentials is a listing document so that you can find your solution easily, beside [My blog]
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> It.phuotky.com là blog của mình dùng để lưu trữ các code snippet mình hay xài và dùng để tái sử dụng những dòng code cũng như là cách nhanh nhất để chia sẻ cho mọi người, các bạn có thể tìm thấy các hướng dẫn wordpress ở blog của mình.|
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
