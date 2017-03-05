@@ -1,13 +1,10 @@
-# Dillinger
+# Wordpress Essentials
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+  - Wordpress plugins needed list
+  - Wordpress basic shortcode
+  - Wordpress tutorial link list
 
-
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
-# New Features!
+# There are a wordpress plugin list which I used to work with:
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
@@ -30,13 +27,13 @@ Markdown is a lightweight markup language based on the formatting conventions th
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
-### Tech
+### Forms
 
-Dillinger uses a number of open source projects to work properly:
+There are a wordpress plugin list which I used to work with:
 
-* [AngularJS] - HTML enhanced for web apps!
-* [Ace Editor] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
+* [Contact Form 7] - HTML enhanced for web apps!
+* [Contact Form 7 Multistep] - awesome web-based text editor
+* [WP-SMTP] - Markdown parser done right. Fast and easy to extend.
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
 * [node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework [@tjholowaychuk]
