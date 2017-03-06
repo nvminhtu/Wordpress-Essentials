@@ -63,7 +63,8 @@ There are a wordpress plugin list which I used to work with:
 ### Pagination
 * [WP-PageNavi] - popular wordpress pagination, easy to customize.
 
-
+### Customized plugin
+* [Layer Slider] - Plugin allows setup time for each slider, create many layer for a slide.
 ### Wordpress Snippet
 
 Short PHP script, WP code for loading data, define layout,...
@@ -78,6 +79,10 @@ Short PHP script, WP code for loading data, define layout,...
 
 Want to contribute? Great!
 
+* [Config Pretty Permalink in Nginx] - Setup and create pretty permalink for Wordpress
+
+# Tutorial 
+###Nginx
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -97,7 +102,10 @@ Want to contribute? Great!
    [Capability Manager Enhanced]: <https://wordpress.org/plugins/capability-manager-enhanced/>
    [Resize Image After Upload]: <https://wordpress.org/plugins/resize-image-after-upload/>
    [Simple Admin Language Change]: <https://wordpress.org/plugins/simple-admin-language-change/>
+   [Layer Slider]: <https://github.com/nvminhtu/layer_slider>
    [My blog]: <http://it.phuotky.com/>
+    
+   [Config Pretty Permalink in Nginx]: <http://nginxlibrary.com/wordpress-permalinks/>
    [lnksnipp]: <http://wpsnipp.com/>
    [lnkwpsnippets]: <http://wp-snippets.com/>
     
