@@ -76,14 +76,17 @@ Short PHP script, WP code for loading data, define layout,...
 | WP Snippets | [http://wp-snippets.com/] [lnkwpsnippets] |
 
 
-### Development
-
-Want to contribute? Great!
-
-
 # Tutorial 
 
 ### Nginx
+
+
+### Development
+
+Want to contribute? Great!
+You can folk, star or email to me: nvminhtu@gmail.com, then I will set you as contributor.
+
+
 
 * [Config Pretty Permalink in Nginx] - Setup and create pretty permalink for Wordpress
 
