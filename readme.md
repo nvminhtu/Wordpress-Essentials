@@ -54,8 +54,8 @@ Short PHP script, WP code for loading data, define layout,...
 
 | Wordpress snippet | README |
 | ------ | ------ |
-| Snipp | [http://wpsnipp.com/] [PlDb] |
-| WP Snippets | [http://wp-snippets.com/] [PlGh] |
+| Snipp | [http://wpsnipp.com/] |
+| WP Snippets | [http://wp-snippets.com/] |
 
 
 ### Development
