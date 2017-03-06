@@ -95,6 +95,7 @@ Want to contribute? Great!
    [Category Order and Taxonomy Terms Order]: https://wordpress.org/plugins/taxonomy-terms-order/
    [Capability Manager Enhanced]: <https://wordpress.org/plugins/capability-manager-enhanced/>
    [Resize Image After Upload]: <https://wordpress.org/plugins/resize-image-after-upload/>
+   [Simple Admin Language Change] <https://wordpress.org/plugins/simple-admin-language-change/>
    [My blog]: <http://it.phuotky.com/>
    [lnksnipp]: <http://wpsnipp.com/>
    [lnkwpsnippets]: <http://wp-snippets.com/>
