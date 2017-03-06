@@ -35,7 +35,7 @@ There are a wordpress plugin list which I used to work with:
 
 ### Database & Backup
 
-* [All-in-One WP Migration] - HTML enhanced for web apps!
+* [All-in-One WP Migration] - one click for backuping source code and database (import/export easily)
 
 ### Wordpress Editor Customization
 
