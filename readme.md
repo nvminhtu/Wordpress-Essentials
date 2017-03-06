@@ -80,15 +80,13 @@ Short PHP script, WP code for loading data, define layout,...
 
 ### Nginx
 
+* [Config Pretty Permalink in Nginx] - Setup and create pretty permalink for Wordpress
 
 ### Development
 
 Want to contribute? Great!
 You can folk, star or email to me: nvminhtu@gmail.com, then I will set you as contributor.
 
-
-
-* [Config Pretty Permalink in Nginx] - Setup and create pretty permalink for Wordpress
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
