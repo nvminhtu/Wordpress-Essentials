@@ -50,6 +50,8 @@ There are a wordpress plugin list which I used to work with:
 * [Visual Editor Custom Buttons] - create customized button ( Wrap or single block) for Wordpress.
 * [Capability Manager Enhanced] - Capability Manager Enhanced provides a simple way to manage WordPress role definitions (Subscriber, Editor, etc.). View or change the capabilities of any role, add new roles, copy existing roles into new ones, and add new capabilities to existing roles. Now supports capability negation and role networking.
 * [Resize Image After Upload] - Simple plugin to automatically resize uploaded images to within specified maximum width and height. Also has option to force recompression of JPEGs
+* [Simple Admin Language Change] - Change your admin language easily.
+> Vietnamese: Thay đổi ngôn ngữ trang quản trị (admin) cho từng user - mỗi user có thể tự thay đổi ngôn ngữ riêng cho trang của mình. (trong số các ngôn ngữ mà đã cài đặt)
 
 ### Social & Analytics
 * [ZillaLikes] - Best plugin for like post, easy to change icon (heart, hand, ...)
