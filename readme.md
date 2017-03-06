@@ -51,6 +51,7 @@ There are a wordpress plugin list which I used to work with:
 * [Capability Manager Enhanced] - Capability Manager Enhanced provides a simple way to manage WordPress role definitions (Subscriber, Editor, etc.). View or change the capabilities of any role, add new roles, copy existing roles into new ones, and add new capabilities to existing roles. Now supports capability negation and role networking.
 * [Resize Image After Upload] - Simple plugin to automatically resize uploaded images to within specified maximum width and height. Also has option to force recompression of JPEGs
 * [Simple Admin Language Change] - Change your admin language easily.
+
 > Vietnamese: Thay đổi ngôn ngữ trang quản trị (admin) cho từng user - mỗi user có thể tự thay đổi ngôn ngữ riêng cho trang của mình. (trong số các ngôn ngữ mà đã cài đặt)
 
 ### Social & Analytics
@@ -95,7 +96,7 @@ Want to contribute? Great!
    [Category Order and Taxonomy Terms Order]: https://wordpress.org/plugins/taxonomy-terms-order/
    [Capability Manager Enhanced]: <https://wordpress.org/plugins/capability-manager-enhanced/>
    [Resize Image After Upload]: <https://wordpress.org/plugins/resize-image-after-upload/>
-   [Simple Admin Language Change] <https://wordpress.org/plugins/simple-admin-language-change/>
+   [Simple Admin Language Change]: <https://wordpress.org/plugins/simple-admin-language-change/>
    [My blog]: <http://it.phuotky.com/>
    [lnksnipp]: <http://wpsnipp.com/>
    [lnkwpsnippets]: <http://wp-snippets.com/>
