@@ -37,9 +37,11 @@ There are a wordpress plugin list which I used to work with:
 ### Database & Backup
 
 * [All-in-One WP Migration] - HTML enhanced for web apps!
-* [Contact Form 7 Multistep] - awesome web-based text editor
-* [WP-SMTP] - Markdown parser done right. Fast and easy to extend.
 
+### Wordpress Editor Customization
+
+* [TinyMCE Advanced] - show buttons in editor, hide no-need buttons
+* [Visual Editor Custom Buttons] - create customized button ( Wrap or single block) for Wordpress.
 
 ### Wordpress Snippet
 
@@ -59,5 +61,8 @@ Want to contribute? Great!
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Contact Form 7]: <https://wordpress.org/plugins/contact-form-7/>
+   [Contact Form 7 Multistep]: <https://wordpress.org/plugins/contact-form-7-multi-step-module/>
    [All-in-One WP Migration]: <https://wordpress.org/plugins/all-in-one-wp-migration/>
+   [Visual Editor Custom Buttons]: <https://wordpress.org/plugins/visual-editor-custom-buttons/>
+   [TinyMCE Advanced]: <https://wordpress.org/plugins/tinymce-advanced/>
    [My blog]: <http://it.phuotky.com/>
