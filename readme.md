@@ -54,8 +54,8 @@ Short PHP script, WP code for loading data, define layout,...
 
 | Wordpress snippet | README |
 | ------ | ------ |
-| Snipp | [http://wpsnipp.com/] |
-| WP Snippets | [http://wp-snippets.com/] |
+| Snipp | [http://wpsnipp.com/] [lnksnipp] |
+| WP Snippets | [http://wp-snippets.com/] [lnkwpsnippets] |
 
 
 ### Development
@@ -73,3 +73,5 @@ Want to contribute? Great!
    [TinyMCE Advanced]: <https://wordpress.org/plugins/tinymce-advanced/>
    [Custom Post Type Permalinks]: <https://wordpress.org/plugins/custom-post-type-permalinks/>
    [My blog]: <http://it.phuotky.com/>
+   [lnksnipp]: <http://wpsnipp.com/>
+   [lnkwpsnippets]: <http://wp-snippets.com/>
