@@ -65,6 +65,7 @@ There are a wordpress plugin list which I used to work with:
 
 ### Customized plugin
 * [Layer Slider] - Plugin allows setup time for each slider, create many layer for a slide.
+
 ### Wordpress Snippet
 
 Short PHP script, WP code for loading data, define layout,...
@@ -78,7 +79,6 @@ Short PHP script, WP code for loading data, define layout,...
 ### Development
 
 Want to contribute? Great!
-
 
 
 # Tutorial 
