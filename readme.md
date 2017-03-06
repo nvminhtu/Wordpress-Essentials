@@ -49,12 +49,12 @@ There are a wordpress plugin list which I used to work with:
 * [TinyMCE Advanced] - show buttons in editor, hide no-need buttons
 * [Visual Editor Custom Buttons] - create customized button ( Wrap or single block) for Wordpress.
 * [Capability Manager Enhanced] - Capability Manager Enhanced provides a simple way to manage WordPress role definitions (Subscriber, Editor, etc.). View or change the capabilities of any role, add new roles, copy existing roles into new ones, and add new capabilities to existing roles. Now supports capability negation and role networking.
-
+* [Resize Image After Upload] - Simple plugin to automatically resize uploaded images to within specified maximum width and height. Also has option to force recompression of JPEGs
 ### Social & Analytics
-* [ZillaLikes] - Best plugin for like post, easy to change icon (hear, hand, ...)
+* [ZillaLikes] - Best plugin for like post, easy to change icon (heart, hand, ...)
 * [Twitter] - Twitter Plugin - show Twitter box in Visual Editor Wordress directly.
 * [Simple Instagram Embed] - Add Instagram link and show it in Visual Editor easily.
-* [Post Views Counter] - Post Views Counter allows you to display how many times a post, page or custom post type had been viewed in a simple, fast and reliable way.
+* [Post View Counter] - Post Views Counter allows you to display how many times a post, page or custom post type had been viewed in a simple, fast and reliable way.
 
 ### Pagination
 * [WP-PageNavi] - popular wordpress pagination, easy to customize.
@@ -91,6 +91,7 @@ Want to contribute? Great!
    [Post View Counter]: <https://wordpress.org/plugins/post-views-counter/>
    [Category Order and Taxonomy Terms Order]: https://wordpress.org/plugins/taxonomy-terms-order/
    [Capability Manager Enhanced]: <https://wordpress.org/plugins/capability-manager-enhanced/>
+   [Resize Image After Upload]: <https://wordpress.org/plugins/resize-image-after-upload/>
    [My blog]: <http://it.phuotky.com/>
    [lnksnipp]: <http://wpsnipp.com/>
    [lnkwpsnippets]: <http://wp-snippets.com/>
