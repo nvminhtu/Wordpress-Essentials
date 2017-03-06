@@ -31,8 +31,7 @@ There are a wordpress plugin list which I used to work with:
 
 * [Contact Form 7] - create basic contact form with many fields!
 * [Contact Form 7 Multistep] - create multi step form for Contact Form 7.
-* [WP-SMTP] - configure server so that It can send email by SMTP (such as Gmail).
-
+* [Easy WP SMTP] - configure SMTP in Wordpress Admin Panel so that It can send email by SMTP (such as Gmail).
 
 ### Database & Backup
 
@@ -42,6 +41,12 @@ There are a wordpress plugin list which I used to work with:
 
 * [TinyMCE Advanced] - show buttons in editor, hide no-need buttons
 * [Visual Editor Custom Buttons] - create customized button ( Wrap or single block) for Wordpress.
+
+### Permalinks & Breadcrumb
+* [Custom Post Type Permalinks] - create pretty permalinks for custom post type.
+
+### Pagination
+
 
 ### Wordpress Snippet
 
@@ -62,7 +67,9 @@ Want to contribute? Great!
 
    [Contact Form 7]: <https://wordpress.org/plugins/contact-form-7/>
    [Contact Form 7 Multistep]: <https://wordpress.org/plugins/contact-form-7-multi-step-module/>
+   [Easy WP SMTP]: <https://wordpress.org/plugins/easy-wp-smtp/>
    [All-in-One WP Migration]: <https://wordpress.org/plugins/all-in-one-wp-migration/>
    [Visual Editor Custom Buttons]: <https://wordpress.org/plugins/visual-editor-custom-buttons/>
    [TinyMCE Advanced]: <https://wordpress.org/plugins/tinymce-advanced/>
+   [Custom Post Type Permalinks]: <https://wordpress.org/plugins/custom-post-type-permalinks/>
    [My blog]: <http://it.phuotky.com/>
