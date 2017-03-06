@@ -25,6 +25,12 @@ Wordpress Essentials is a listing document so that you can find your solution ea
 
 #List of plugins?
 
+### Categories, Taxonomies, Post, Custom post type
+* [Category Order and Taxonomy Terms Order] - Order Categories and all custom taxonomies terms (hierarchically) using a Drag and Drop Sortable javascript capability.
+
+### Permalinks & Breadcrumb
+* [Custom Post Type Permalinks] - create pretty permalinks for custom post type.
+
 ### Forms
 
 There are a wordpress plugin list which I used to work with:
@@ -33,19 +39,25 @@ There are a wordpress plugin list which I used to work with:
 * [Contact Form 7 Multistep] - create multi step form for Contact Form 7.
 * [Easy WP SMTP] - configure SMTP in Wordpress Admin Panel so that It can send email by SMTP (such as Gmail).
 
+
 ### Database & Backup
 
 * [All-in-One WP Migration] - one click for backuping source code and database (import/export easily)
 
-### Wordpress Editor Customization
+### Wordpress Admin/ Visual Editor Customization
 
 * [TinyMCE Advanced] - show buttons in editor, hide no-need buttons
 * [Visual Editor Custom Buttons] - create customized button ( Wrap or single block) for Wordpress.
+* [Capability Manager Enhanced] - Capability Manager Enhanced provides a simple way to manage WordPress role definitions (Subscriber, Editor, etc.). View or change the capabilities of any role, add new roles, copy existing roles into new ones, and add new capabilities to existing roles. Now supports capability negation and role networking.
 
-### Permalinks & Breadcrumb
-* [Custom Post Type Permalinks] - create pretty permalinks for custom post type.
+### Social & Analytics
+* [ZillaLikes] - Best plugin for like post, easy to change icon (hear, hand, ...)
+* [Twitter] - Twitter Plugin - show Twitter box in Visual Editor Wordress directly.
+* [Simple Instagram Embed] - Add Instagram link and show it in Visual Editor easily.
+* [Post Views Counter] - Post Views Counter allows you to display how many times a post, page or custom post type had been viewed in a simple, fast and reliable way.
 
 ### Pagination
+* [WP-PageNavi] - popular wordpress pagination, easy to customize.
 
 
 ### Wordpress Snippet
@@ -72,6 +84,14 @@ Want to contribute? Great!
    [Visual Editor Custom Buttons]: <https://wordpress.org/plugins/visual-editor-custom-buttons/>
    [TinyMCE Advanced]: <https://wordpress.org/plugins/tinymce-advanced/>
    [Custom Post Type Permalinks]: <https://wordpress.org/plugins/custom-post-type-permalinks/>
+   [WP-PageNavi]: <https://wordpress.org/plugins/wp-pagenavi/>
+   [ZillaLikes]: <http://www.themezilla.com/plugins/zillalikes/>
+   [Twitter]: <https://wordpress.org/plugins/twitter/>
+   [Simple Instagram Embed]: <https://wordpress.org/plugins/simple-instagram-embed/>
+   [Post View Counter]: <https://wordpress.org/plugins/post-views-counter/>
+   [Category Order and Taxonomy Terms Order]: https://wordpress.org/plugins/taxonomy-terms-order/
+   [Capability Manager Enhanced]: <https://wordpress.org/plugins/capability-manager-enhanced/>
    [My blog]: <http://it.phuotky.com/>
    [lnksnipp]: <http://wpsnipp.com/>
    [lnkwpsnippets]: <http://wp-snippets.com/>
+    
