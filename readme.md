@@ -65,6 +65,7 @@ There are a wordpress plugin list which I used to work with:
 
 ### Customized plugin
 * [Layer Slider] - Plugin allows setup time for each slider, create many layer for a slide.
+* [Advanced Custom Field Pro] - Plugins allows create custom fields (special on: repeater custom field), 
 
 ### Wordpress Snippet
 
@@ -107,9 +108,11 @@ You can folk, star or email to me: nvminhtu@gmail.com, then I will set you as co
    [Resize Image After Upload]: <https://wordpress.org/plugins/resize-image-after-upload/>
    [Simple Admin Language Change]: <https://wordpress.org/plugins/simple-admin-language-change/>
    [Layer Slider]: <https://github.com/nvminhtu/layer_slider>
+   [Advanced Custom Field Pro]: <https://github.com/nvminhtu/advanced_CTF>
+
    [My blog]: <http://it.phuotky.com/>
     
    [Config Pretty Permalink in Nginx]: <http://nginxlibrary.com/wordpress-permalinks/>
    [lnksnipp]: <http://wpsnipp.com/>
    [lnkwpsnippets]: <http://wp-snippets.com/>
-    
+
