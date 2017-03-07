@@ -66,6 +66,12 @@ There are a wordpress plugin list which I used to work with:
 ### Customized plugin
 * [Layer Slider] - Plugin allows setup time for each slider, create many layer for a slide.
 * [Advanced Custom Field Pro] - Plugins allows create custom fields (special on: repeater custom field), 
+* [Intuitive Custom Post Order] - Order Custom Post Type by Drag and Drop
+
+### My own Plugin:
+* [Minimize Admin] - Customize Wordpress Admin, remove unused menu.
+* [Auto Add Tag Title] - Add Tag to Wordpress Post title automatically.
+* [Custom Admin Bar] - Remove unsued menu, link item in Wordpress Admin bar
 
 ### Wordpress Snippet
 
@@ -109,6 +115,10 @@ You can folk, star or email to me: nvminhtu@gmail.com, then I will set you as co
    [Simple Admin Language Change]: <https://wordpress.org/plugins/simple-admin-language-change/>
    [Layer Slider]: <https://github.com/nvminhtu/layer_slider>
    [Advanced Custom Field Pro]: <https://github.com/nvminhtu/advanced_CTF>
+   [Intuitive Custom Post Order]: <http://hijiriworld.com/web/plugins/intuitive-custom-post-order/>
+   [Minimize Admin]: <https://github.com/nvminhtu/Minimize-Admin>
+   [Auto Add Tag Title]: <https://github.com/nvminhtu/Auto-Add-Tag-Title>
+   [Custom Admin Bar]: <https://github.com/nvminhtu/Custom-Admin-Bar>
 
    [My blog]: <http://it.phuotky.com/>
     
