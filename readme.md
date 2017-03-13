@@ -55,7 +55,7 @@ There are a wordpress plugin list which I used to work with:
 > Vietnamese: Thay đổi ngôn ngữ trang quản trị (admin) cho từng user - mỗi user có thể tự thay đổi ngôn ngữ riêng cho trang của mình. (trong số các ngôn ngữ mà đã cài đặt)
 
 ### Social & Analytics
-* [ZillaLikes] - Best plugin for like post, easy to change icon (heart, hand, ...)
+* [ZillaLikes] - Best plugin for like post, easy to change icon (heart, hand, ...) - widget register function decrecated - using alternative plugins here [Wordpress Post Like].
 * [Twitter] - Twitter Plugin - show Twitter box in Visual Editor Wordress directly.
 * [Simple Instagram Embed] - Add Instagram link and show it in Visual Editor easily.
 * [Post View Counter] - Post Views Counter allows you to display how many times a post, page or custom post type had been viewed in a simple, fast and reliable way.
@@ -106,6 +106,7 @@ You can folk, star or email to me: nvminhtu@gmail.com, then I will set you as co
    [Custom Post Type Permalinks]: <https://wordpress.org/plugins/custom-post-type-permalinks/>
    [WP-PageNavi]: <https://wordpress.org/plugins/wp-pagenavi/>
    [ZillaLikes]: <http://www.themezilla.com/plugins/zillalikes/>
+   [Wordpress Post Like]: <https://github.com/nvminhtu/wordpress-post-like>
    [Twitter]: <https://wordpress.org/plugins/twitter/>
    [Simple Instagram Embed]: <https://wordpress.org/plugins/simple-instagram-embed/>
    [Post View Counter]: <https://wordpress.org/plugins/post-views-counter/>
