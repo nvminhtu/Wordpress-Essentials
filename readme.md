@@ -25,8 +25,10 @@ Wordpress Essentials is a listing document so that you can find your solution ea
 
 #List of plugins?
 
-### Categories, Taxonomies, Post, Custom post type
+### Categories, Taxonomies, Post, Custom post type, Custom Field
 * [Category Order and Taxonomy Terms Order] - Order Categories and all custom taxonomies terms (hierarchically) using a Drag and Drop Sortable javascript capability.
+* Việc thêm custom field cho admin - có thể sử dụng plugin [CM2] free, khi dùng plugin này - developer có thể dễ dàng thêm field theo tùy chỉnh thông số của wordpress code - xem tại đây cách setup cơ bản [CMB2 Field Usage], ngoài ra cũng có thể tạo và tùy chỉnh field load data theo ý của mình, bạn xem thêm tại đây - [CMB2 Field Custom].
+Ví dụ như: chúng ta cần load danh sách các bài post (và loại bỏ đi 1 số bài - hoặc là chỉ load những bài của user đã tạo bài post đó) - dĩ nhiên chúng ta sẽ dùng query_posts($args) - với $args là các thông số chúng ta truyền vào (hướng dẫn trên Wordpress Codex) - ở đây support rất tốt. Các bạn nên sử dụng.
 
 ### Permalinks & Breadcrumb
 * [Custom Post Type Permalinks] - create pretty permalinks for custom post type.
@@ -120,7 +122,9 @@ You can folk, star or email to me: nvminhtu@gmail.com, then I will set you as co
    [Minimize Admin]: <https://github.com/nvminhtu/Minimize-Admin>
    [Auto Add Tag Title]: <https://github.com/nvminhtu/Auto-Add-Tag-Title>
    [Custom Admin Bar]: <https://github.com/nvminhtu/Custom-Admin-Bar>
-
+   [CMB2]: <https://github.com/WebDevStudios/CMB2>
+   [CMB2 Field Usage]: <https://github.com/WebDevStudios/CMB2/wiki/Basic-Usage>
+   [CMB2 Field Custom]: <https://github.com/WebDevStudios/CMB2/wiki/Adding-your-own-field-types#example-2-posts-or-other-post_type-dropdown-store-post_id>
    [My blog]: <http://it.phuotky.com/>
     
    [Config Pretty Permalink in Nginx]: <http://nginxlibrary.com/wordpress-permalinks/>
