@@ -27,7 +27,7 @@ Wordpress Essentials is a listing document so that you can find your solution ea
 
 ### Categories, Taxonomies, Post, Custom post type, Custom Field
 * [Category Order and Taxonomy Terms Order] - Order Categories and all custom taxonomies terms (hierarchically) using a Drag and Drop Sortable javascript capability.
-* Việc thêm custom field cho admin - có thể sử dụng plugin [CM2] free, khi dùng plugin này - developer có thể dễ dàng thêm field theo tùy chỉnh thông số của wordpress code - xem tại đây cách setup cơ bản [CMB2 Field Usage], ngoài ra cũng có thể tạo và tùy chỉnh field load data theo ý của mình, bạn xem thêm tại đây - [CMB2 Field Custom].
+* [CMB2] - Việc thêm custom field cho admin - có thể sử dụng plugin [CMB2] free, khi dùng plugin này - developer có thể dễ dàng thêm field theo tùy chỉnh thông số của wordpress code - xem tại đây cách setup cơ bản [CMB2 Field Usage], ngoài ra cũng có thể tạo và tùy chỉnh field load data theo ý của mình, bạn xem thêm tại đây - [CMB2 Field Custom].
 Ví dụ như: chúng ta cần load danh sách các bài post (và loại bỏ đi 1 số bài - hoặc là chỉ load những bài của user đã tạo bài post đó) - dĩ nhiên chúng ta sẽ dùng query_posts($args) - với $args là các thông số chúng ta truyền vào (hướng dẫn trên Wordpress Codex) - ở đây support rất tốt. Các bạn nên sử dụng.
 
 ### Permalinks & Breadcrumb
