@@ -1,0 +1,8 @@
+# CONTACT FORM 7 CONFIGURATION
+
+# SELECT
+```
+[select* your-browser include_blank "Firefox" "Safari" "Opera" "Lynx"]
+```
+* let `include_blank` if you want to make a default value
+* select always has an option which be selected
